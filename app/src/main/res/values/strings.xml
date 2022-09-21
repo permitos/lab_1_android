@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laboratory work No. 1 Option No. 10</string>
+    <string name="contactingTheUser">Введите число:</string>
+    <string name="userField">10</string>
+    <string name="buttonClick">Ввод</string>
+    <string name="resultView">Результат</string>
+</resources>
